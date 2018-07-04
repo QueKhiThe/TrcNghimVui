@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728302869289",
+    "firebase_url": "https://tracnghiemvui-ed677.firebaseio.com",
+    "project_id": "tracnghiemvui-ed677",
+    "storage_bucket": "tracnghiemvui-ed677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728302869289:android:8bd9fd16f9305ad9",
+        "android_client_info": {
+          "package_name": "com.example.quekhithe.trcnghimvui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728302869289-pctinqmv44scu5583jnfkatri510sa33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quekhithe.trcnghimvui",
+            "certificate_hash": "e9cfea919481a785658d4a1d8aa43bc5bd50ae82"
+          }
+        },
+        {
+          "client_id": "728302869289-6ja1gno76usf3qk86rs2n9mhvoa532ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwUK4UfHwbkYXjpSthVETxz7fmQMXP4NE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728302869289-6ja1gno76usf3qk86rs2n9mhvoa532ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
